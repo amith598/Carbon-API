@@ -78,7 +78,7 @@ https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+amith&theme=d
 
   ```bash
   # Clone the repo
-  git clone https://github.com/cyberboysumanjay/Carbon-API
+  git clone https://github.com/amith598/Carbon-API
   cd Carbon-API
 
   # Create virtualenv
