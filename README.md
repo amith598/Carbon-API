@@ -12,8 +12,7 @@
 ### Show some :heart: and :star: the repo
 
 [![GitHub stars](https://img.shields.io/github/stars/amith598/Carbon-API.svg?style=social&label=Star)](https://github.com/amith598/JioSaavnAPI)
-![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://telegram.me/chatbotsbusiness)
 
 ## Carbon API written in Python using Flask and Pyppeteer
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
