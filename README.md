@@ -11,7 +11,7 @@
 
 ### Show some :heart: and :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/Carbon-API.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/JioSaavnAPI)
+[![GitHub stars](https://img.shields.io/github/stars/amith598/Carbon-API.svg?style=social&label=Star)](https://github.com/amith598/JioSaavnAPI)
 ![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
 
@@ -47,7 +47,7 @@ You can use the API by sending a GET or a POST request using these params
 ### GET `/`
 Params are encoded in url
 ```bash
-https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&theme=darcula&backgroundColor=rgba(144, 19, 254, 100)
+https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+amith&theme=darcula&backgroundColor=rgba(144, 19, 254, 100)
 ```
 
 ### POST `/`
@@ -57,7 +57,7 @@ https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&them
 ```json
 {
     "backgroundColor": "rgba(144, 19, 254, 100)",
-    "code": "Made with Love in India by Sumanjay",
+    "code": "Made with Love in India by amith",
     "theme": "dracula"
 }
 ```
@@ -65,7 +65,7 @@ https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&them
 ### RESPONSE
 **Response** is an image of a code or text snippet.
 <p align="center">
-    <a href="https://github.com/cyberboysumanjay">
+    <a href="https://github.com/amith598">
         <img src="resources/response.png" alt="Response">
     </a>
 </p>
@@ -73,7 +73,7 @@ https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&them
 #### Deploy Option
 
 * **[Heroku](https://www.heroku.com/) Method** 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/Carbon-API/tree/master)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amith598/Carbon-API/tree/master)
 
 * **Other Method** 
 
@@ -95,5 +95,4 @@ https://carbonnowsh.herokuapp.com/?code=Made+with+Love+in+India+by+Sumanjay&them
 ### Made with ❤️️ in India
 ### Copyright & License 
 
-* Copyright (C) 2020 by [Sumanjay](https://github.com/cyberboysumanjay)
-* Licensed under the terms of the [GNU GPL Version 3](https://github.com/cyberboysumanjay/Carbon-API/blob/master/LICENSE)
+* Copyright (C) 2020 by [amith](https://github.com/amith598)* Licensed under the terms of the [GNU GPL Version 3](https://github.com/amith598/Carbon-API/blob/master/LICENSE)
